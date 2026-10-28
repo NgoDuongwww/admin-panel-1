@@ -1,4 +1,4 @@
-import { defineConfig } from 'vite' // ➡ Dùng để khai báo cấu hình Vite với hỗ trợ gợi ý (intellisense) và kiểm tra kiểu (type-check).
+clsimport { defineConfig } from 'vite' // ➡ Dùng để khai báo cấu hình Vite với hỗ trợ gợi ý (intellisense) và kiểm tra kiểu (type-check).
 import vue from '@vitejs/plugin-vue' // ➡ Giúp Vite xử lý các file .vue (template, script, style, ...).
 import { fileURLToPath, URL } from 'node:url'
 // ↳ fileURLToPath chuyển URL về dạng đường dẫn hệ thống file.
