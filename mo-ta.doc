@@ -1,0 +1,11 @@
+ --FILE--
+ .prettierrc
+          - semi: mặc định thêm dấu chấm phẩy (;) ở cuối mỗi câu lệnh JS/TS.
+          - singleQuote: mặc định dùng dấu nháy kép (" ") cho string.
+
+--CSS--
+- Các thông số CSS dùng chung nên được khai báo trong :root của file style.css, để có thể quản lý và tái sử dụng dễ dàng.
+
+--PROJECT--
+- Làm tiếp phần dashboard (19/10/2025)
+- Làm tiếp phần today report (29/3/2026)
